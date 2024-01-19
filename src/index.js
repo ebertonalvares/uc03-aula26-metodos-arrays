@@ -41,3 +41,7 @@ console.log('Lista Original', lista)
 lista.reverse()
 console.log('Lista Original', lista)
 
+//Acessar item na lista array
+ let itemDaLista = lista[0];
+console.log(itemDaLista)
+
